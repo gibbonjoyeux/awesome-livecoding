@@ -232,6 +232,10 @@ Quoting [Wikipedia](https://en.wikipedia.org/wiki/Live_coding)
 
   `abandoned` `Windows | macOS | GNU/Linux` `TypeScript` `FLOSS` `audio`
 
+- [Regex](https://library.vcvrack.com/Biset/Biset-Regex) - A VCV Rack live coding module generating intricated pitch and rhythm sequences.
+
+  `Windows | macOS | GNU/Linux` `VCV` `Rack` `Modular` `FLOSS` `audio`
+
 - [Repetition.sc](https://github.com/lvm/Repetition.sc) - A set of tools to build a SequenceableCollection of Events.
 
   `Windows | macOS | GNU/Linux` `SuperCollider` `FLOSS` `audio`
